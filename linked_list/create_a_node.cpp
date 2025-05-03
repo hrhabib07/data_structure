@@ -6,6 +6,8 @@ class Node {
     int val;
     Node* next;
 };
+ 
+
 
 int main() {
     Node a,b,c;
