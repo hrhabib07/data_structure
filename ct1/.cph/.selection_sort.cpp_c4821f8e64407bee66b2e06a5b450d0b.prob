@@ -1,0 +1,1 @@
+{"name":"Local: selection_sort","url":"d:\\academic\\data_structure\\ct1\\selection_sort.cpp","tests":[{"id":1750819926246,"input":"5\n4 3 2 5 6","output":"2 3 4 5 6 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\academic\\data_structure\\ct1\\selection_sort.cpp","group":"local","local":true}

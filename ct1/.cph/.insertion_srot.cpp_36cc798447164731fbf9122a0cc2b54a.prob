@@ -1,0 +1,1 @@
+{"name":"Local: insertion_srot","url":"d:\\academic\\data_structure\\ct1\\insertion_srot.cpp","tests":[{"id":1750819658749,"input":"5\n3 4 2 1 9 ","output":"1 2 3 4 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\academic\\data_structure\\ct1\\insertion_srot.cpp","group":"local","local":true}
